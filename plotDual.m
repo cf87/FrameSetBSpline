@@ -1,3 +1,8 @@
+% This code accompanies the paper "On the frame set of the second-order B-spline"
+% by A. G. D. Atindehou, C. Frederick, Y. B. Kouagou, And K. A. Okoudjou
+% https://arxiv.org/abs/1806.05614
+
+
 function plotDual
 a = .85;
 b = 1.05;
